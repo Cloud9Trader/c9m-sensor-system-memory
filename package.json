@@ -1,0 +1,19 @@
+{
+  "name": "c9m-sensor-system-memory",
+  "version": "0.0.0",
+  "description": "Cloud9Metrics sensor for reading system memory usage",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cloud9Trader/c9m-sensor-system-memory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cloud9Trader/c9m-sensor-system-memory/issues"
+  },
+  "homepage": "https://github.com/Cloud9Trader/c9m-sensor-system-memory#readme",
+  "dependencies": {}
+}
